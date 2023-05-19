@@ -3,7 +3,7 @@
     "path": "~/Desktop/Amrita5513/example.Rmd",
     "project_path": "example.Rmd",
     "type": "r_markdown",
-    "hash": "3247940442",
+    "hash": "761581988",
     "contents": "",
     "dirty": false,
     "created": 1684508197444.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,0",
+        "cursorPosition": "12,22",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684508206,
+    "lastKnownWriteTime": 1684509042,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684508206455,
+    "last_content_update": 1684509042401,
     "read_only": false,
     "read_only_alternatives": []
 }
